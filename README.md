@@ -39,6 +39,8 @@ Here is a screenshot of the screen you see when you click on the plus button:
 <img
 src="MainActivity.jpg"
 raw=true
+width = 540
+height = 1200
 alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
