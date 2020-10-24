@@ -12,19 +12,22 @@ In addition, all methods and instance variables that can be made private are mad
 All UI xml files are in PillReminder/app/src/main/res/
 
 screenshot of the screen you see when in the main activity 
+
+screenshot of the screen you see when you click on the plus button in the 
+
+
+
+
+
+
+
 <img
 src="addReminderScreen.png"
 raw=true
 alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
-screenshot of the screen you see when you click on the plus button in the 
-<img
-src=“.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
 # Functionality
 As this app is meant to be a demo some functionality is missing. The app does not create notifications and UI may not scale properly since I only 
 have one test device. 
