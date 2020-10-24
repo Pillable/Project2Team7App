@@ -1,4 +1,8 @@
 # General Info
+This app is meant to help people remember to swallow their pills. It is a free addon to the pillable water bottle which is meant to help a person swallow their pills. The way it works is on the main screen you see a list of all reminders. You can then press the plus button which takes you to a screen that lets you enter the days and time at which you want your reminder to notify you. For more information on the flow of control of the app and its general algorithm, please see the algorithm documentation pdf named algorithminfo.pdf
+
+
+# Encapsulation and Abstraction
 
 All code is in PillReminder/app/src/main/java/com/example/pillreminder/
 It is well documented using kdoc style commenting and clearly displayed encapsulation and abstraction. 
