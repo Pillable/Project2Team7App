@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PillReminder</string>
+    <string name="pill_reminders">Pill Reminders</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="sunday">Sunday</string>
+    <string name="saturday">Saturday</string>
+    <string name="friday">Friday</string>
+    <string name="thursday">Thursday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="monday">Monday</string>
+    <string name="days_to_repeat">Days To Repeat</string>
+</resources>
