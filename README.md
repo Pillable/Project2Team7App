@@ -19,7 +19,7 @@ Time class takes 24 hour time and formats
 
 DataHandler saves all reminder classes to a shared preference in the form of a json array. It also has the methods to retrieve that list of reminders
 
-AddReminder class creates the add reminder screen and if the user presses done, it uses DataHandler to add a new reminder to the database based on the user input in the form of what checkboxes they click (each box represents A day of the week) and the time selector widget. Reminder UI screen is shown in the second screenshot below. It should give you a better idea of what I am talking about
+AddReminder class creates the add reminder screen and if the user presses done, it uses DataHandler to add a new reminder to the database based on the user input in the form of what checkboxes they click (each box represents a day of the week) and the time selector widget. Reminder UI screen is shown in the second screenshot below. It should give you a better idea of what I am talking about
 
 # UI 
 All UI xml files are in PillReminder/app/src/main/res/
