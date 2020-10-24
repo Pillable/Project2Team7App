@@ -37,7 +37,7 @@ Here is a screenshot of the screen you see when you click on the plus button:
 
 
 <img
-src="addReminderScreen.png"
+src="MainActivity.jpg"
 raw=true
 alt="Subject Pronouns"
 style="margin-right: 10px;"
