@@ -11,7 +11,7 @@ In addition, all methods and instance variables that can be made private are mad
 # UI 
 All UI xml files are in PillReminder/app/src/main/res/
 
-screenshot of the screen you see when in the main activity:
+Here is a screenshot of the screen you see when in the main activity:
 
 
 
@@ -29,12 +29,19 @@ alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
 
-screenshot of the screen you see when you click on the plus button in the 
+Here is a screenshot of the screen you see when you click on the plus button:
 
 
 
 
 
+
+<img
+src="addReminderScreen.png"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 
 
