@@ -12,6 +12,16 @@ In addition, all methods and instance variables that can be made private are mad
 All UI xml files are in PillReminder/app/src/main/res/
 
 screenshot of the screen you see when in the main activity:
+
+
+
+
+
+
+
+
+
+
 <img
 src="addReminderScreen.png"
 raw=true
