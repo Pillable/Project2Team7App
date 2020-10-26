@@ -5,7 +5,8 @@ This android app is meant to help people remember to swallow their pills. It is 
 I used the industry standard Android Studio IDE and as my programming language I used the recommended Kotlin language. For UI, I used xml layouts as is recommended. 
 
 # Algorithm
-For information on the flow of control of the app and its general algorithm, please see the algorithm documentation pdf named algorthim.pdf which should give you a good general overview of what the app does. You can find the pdf document in the root directory
+For information on the flow of control of the app and its general algorithm, please see the algorithm documentation pdf named algorthim.pdf which should give you a good general overview of what the app does. You can find the pdf document in the root directory or just click this link [this](algorthim.pdf)
+
 
 # Documentation, Encapsulation and Abstraction
 
