@@ -34,6 +34,8 @@ class DataHandler(val sharedPreferences: SharedPreferences) {
     /**
      * Gets json array that represents all reminders in the form of
      * [[reminder time, reminder days], [reminder time, reminder days]]
+     * 
+     * @return json array of reminders
      */
     private fun getPreferences(): JSONArray {
         val jsonObjStr: String? = sharedPreferences.getString("jsonDataArray", "{timerList: []}")
@@ -51,6 +53,8 @@ class DataHandler(val sharedPreferences: SharedPreferences) {
 
     /**
      * From shared preference json array, it gets a list of Reminder classes
+     *
+     * @return ArrayList of Reminder classes from json array stored in shared prefs
      */
     fun getReminderList(): ArrayList<Reminder> {
         val reminderList = ArrayList<Reminder>()
@@ -65,6 +69,8 @@ class DataHandler(val sharedPreferences: SharedPreferences) {
 
     /**
      * Adds reminder class to shared preference and saves the shared preference
+     *
+     * @param reminder: reminder you want to save in shared preference json array
      */
     fun addToPreferences(reminder: Reminder){
         updatePrefInfo()
