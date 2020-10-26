@@ -59,9 +59,6 @@ style="margin-right: 10px;"
 />
 
 
-<embed src="algorthim.pdf" type="application/pdf">
-
-
 
 
 # Functionality
