@@ -46,6 +46,7 @@ class AddReminder : AppCompatActivity() {
      *  Starts main activity and optionally parses it the reminder
      *
      *  @param putExtra: tells method if you want to put the reminder as an extra
+     *  @param sharedPreferences: shared prefs which contain the data to send to the MainActivity
      */
     private fun startMainActivity(putExtra: Boolean = false, sharedPreferences: SharedPreferences){
         val reminder = Reminder(
@@ -62,7 +63,10 @@ class AddReminder : AppCompatActivity() {
 
 
     /**
-     * Given list of button ids for all
+     * Given list of button ids for all checkboxes, creates boolean array of which are checked
+     *
+     * @param idList: list of checkbox ids
+     * @return boolean array of the ids that are checked or not were true = checked and false = not checked
      */
     private fun getButtonArray(idList: IntArray): BooleanArray {
         val daysBool = ArrayList<Boolean>()
