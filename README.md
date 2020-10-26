@@ -59,6 +59,10 @@ style="margin-right: 10px;"
 />
 
 
+<embed src="algorthim.pdf" type="application/pdf">
+
+
+
 
 # Functionality
 As this app is meant to be a demo some functionality is missing. The app does not create notifications and UI may not scale properly since I only 
