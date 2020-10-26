@@ -2,7 +2,7 @@
 This android app is meant to help people remember to swallow their pills. It is a free addon to the pillable water bottle which is meant to help a person swallow their pills. The way it works is on the main screen you see a list of all reminders. You can then press the plus button which takes you to a screen that lets you enter the days and time at which you want your reminder to notify you. 
 
 # Credits
-App was designed and created by Nabeel Rizk, with feedback provided from fellow group members Brandi, Emilia, Arielle.
+App was designed and programmed by Nabeel Rizk, with feedback provided from fellow group members Brandi, Emilia, Arielle.
 
 # Tools used
 I used the industry standard Android Studio IDE and as my programming language I used the recommended Kotlin language. For UI, I used xml layouts as is recommended. 
